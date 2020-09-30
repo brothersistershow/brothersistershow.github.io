@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/brothersistershow.github.io/static/css/main.5f361e03.chunk.css",
-    "main.js": "/brothersistershow.github.io/static/js/main.2465ed0a.chunk.js",
-    "main.js.map": "/brothersistershow.github.io/static/js/main.2465ed0a.chunk.js.map",
-    "runtime-main.js": "/brothersistershow.github.io/static/js/runtime-main.0cbc9749.js",
-    "runtime-main.js.map": "/brothersistershow.github.io/static/js/runtime-main.0cbc9749.js.map",
-    "static/js/2.66de64bc.chunk.js": "/brothersistershow.github.io/static/js/2.66de64bc.chunk.js",
-    "static/js/2.66de64bc.chunk.js.map": "/brothersistershow.github.io/static/js/2.66de64bc.chunk.js.map",
-    "index.html": "/brothersistershow.github.io/index.html",
-    "precache-manifest.4e77da74b4a4481654acaff320f1bdcb.js": "/brothersistershow.github.io/precache-manifest.4e77da74b4a4481654acaff320f1bdcb.js",
-    "service-worker.js": "/brothersistershow.github.io/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/brothersistershow.github.io/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.66de64bc.chunk.js.LICENSE.txt": "/brothersistershow.github.io/static/js/2.66de64bc.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/brothersistershow.github.io/static/media/logo.5d5d9eef.svg"
+    "main.css": "/static/css/main.5f361e03.chunk.css",
+    "main.js": "/static/js/main.b2cdeeb6.chunk.js",
+    "main.js.map": "/static/js/main.b2cdeeb6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8e50440a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8e50440a.js.map",
+    "static/js/2.66de64bc.chunk.js": "/static/js/2.66de64bc.chunk.js",
+    "static/js/2.66de64bc.chunk.js.map": "/static/js/2.66de64bc.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.00d665d9d548119603354c734993395f.js": "/precache-manifest.00d665d9d548119603354c734993395f.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.66de64bc.chunk.js.LICENSE.txt": "/static/js/2.66de64bc.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.0cbc9749.js",
+    "static/js/runtime-main.8e50440a.js",
     "static/js/2.66de64bc.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.2465ed0a.chunk.js"
+    "static/js/main.b2cdeeb6.chunk.js"
   ]
 }
